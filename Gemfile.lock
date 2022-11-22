@@ -84,7 +84,7 @@ GEM
       activesupport (>= 3.0)
       deep_merge (~> 1.1.1)
     connection_pool (2.2.1)
-    dalli (2.7.6)
+    dalli (3.2.3)
     deep_merge (1.1.1)
     descendants_tracker (0.0.4)
       thread_safe (~> 0.3, >= 0.3.1)
